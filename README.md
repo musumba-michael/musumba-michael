@@ -1,4 +1,4 @@
-### Hi there, am gerald <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+### Hi there, am Musumba Gerald Michael <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 <div align="left">
   <a href="https://www.linkedin.com/in/musumba-gerald/" >
@@ -8,26 +8,17 @@
     />
   </a>
 
-![](https://visitor-badge.laobi.icu/badge?page_id=gerald-michael.gerald-michael) 
-[![Github](https://img.shields.io/github/followers/gerald-michael?label=Follow&style=social)](https://github.com/gerald-michael)
+![](https://visitor-badge.laobi.icu/badge?page_id=musumba-michael.musumba-michael) 
+[![Github](https://img.shields.io/github/followers/musumba-michael?label=Follow&style=social)](https://github.com/musumba-michael)
 </div>
 
 <br />
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ... nodejs mediasoup
-- 🌱 I’m currently learning ... mediasoup
-- 👯 I’m looking to collaborate on ... react js, django, flutter, electron and next js
-- 🤔 I’m looking for help with ... mediasoup
-- 💬 Ask me about ... anything
-- 📫 How to reach me: ... www.linkedin.com/in/musumba-gerald
-- 😄 Pronouns: ... He/Him
 
 ### My GitHub Analytics
 <p align="">
-<a href="https://github.com/gerald-michael">
-<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=gerald-michael&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=gerald-michael&layout=compact&langs_count=8&theme=merko"/>
+<a href="https://github.com/musumba-michael">
+<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=musumba-michael&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=musumba-michael&layout=compact&langs_count=8&theme=merko"/>
 </a>
 </p>
 
